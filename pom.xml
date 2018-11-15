@@ -2,11 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.linkmobility.events</groupId>
-  <artifactId>test-events</artifactId>
+  <artifactId>domain-events</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-  <name>Link Mobility Test domain events</name>
-  <description>Events for the Test domain</description>
+  <name>Link Mobility Domain Events</name>
+  <description>Events for all the domains in Link Mobility</description>
   <url>http://www.linkmobility.com</url>
   <licenses>
     <license>
@@ -24,9 +24,9 @@
     </developer>
   </developers>   
   <scm>
-    <connection>scm:git:git://github.com/linkmobility-events/test-events.git</connection>
-    <developerConnection>scm:git:ssh://github.com:linkmobility-events/test-events.git</developerConnection>
-    <url>https://github.com/linkmobility-events/test-events</url>
+    <connection>scm:git:git://github.com/linkmobility-events/domain-events.git</connection>
+    <developerConnection>scm:git:ssh://github.com:linkmobility-events/domain-events.git</developerConnection>
+    <url>https://github.com/linkmobility-events/domain-events</url>
   </scm>
   <dependencies>
      <dependency>
