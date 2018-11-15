@@ -1,4 +1,4 @@
-package linkmobility.test.events;
+package com.linkmobility.events.test;
 
 import java.math.BigDecimal;
 import java.util.*;
