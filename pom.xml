@@ -24,8 +24,8 @@
     </developer>
   </developers>   
   <scm>
-    <connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection>
-    <developerConnection>scm:git:ssh://github.com:simpligility/ossrh-demo.git</developerConnection>
+    <connection>scm:git:git://github.com/linkmobility-events/test-events.git</connection>
+    <developerConnection>scm:git:ssh://github.com:linkmobility-events/test-events.git</developerConnection>
     <url>https://github.com/linkmobility-events/test-events</url>
   </scm>
   <dependencies>
