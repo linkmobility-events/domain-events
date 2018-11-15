@@ -1,2 +1,2 @@
-# test-events
-Link Mobility Test domain events
+# domain-events
+Link Mobility Domain Events
